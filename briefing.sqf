@@ -165,7 +165,7 @@ player createDiaryRecord["404games",
 	Developer - Deadbeat<br/>
 	Developer - Costlyy<br/>
     Developer - Pulse<br/>
-	Server Host - Domukz<br/>
+	Server Host - Domuk<br/>
 "
 ]
 ];
