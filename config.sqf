@@ -7,9 +7,19 @@
 //Admin menu access levels
 moderators = [""]; 
             
-administrators = ["90354502","49046214","11188934","63767942","33485190","28875462","70627846"];
+administrators = [
+	"49046214", //
+	"63767942", //
+	"33485190", //
+	"28875462", //
+	"70627846"  //Zuen
+];
 
-serverAdministrators = ["89811078"]; //DEV 4
+serverAdministrators = [
+	"89811078", //Leavaris
+	"90354502", //TerraNight
+	"11188934"  //Blade
+];
       
 // --------------------------------------------------------------------------------------------------- \\
 // ----------  !DO NOT CHANGE ANYTHING BELOW THIS POINT UNLESS YOU KNOW WHAT YOU ARE DOING!	---------- \\
