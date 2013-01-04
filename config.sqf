@@ -5,28 +5,11 @@
 //	@file Description: Main config.
 
 //Admin menu access levels
-moderators = ["32077894", //Krykiln
-				"87053254", //Shaneyport
-				"8626566", //Teacup
-				"1279378", //Bane
-				"3450176", //Derpy
-				"73698182", //unDead
-				"59344390", //Ian
-				"38204230", //JellaFish
-				"2771014", //MiniDude
-                "91598150", //Rainforger
-                "klauS"
-               	]; 
+moderators = [""]; 
             
-administrators = ["18519302", //Venny
-					"57199878", //Garey
-                    "13472326", //Delite
-					"bombeh"];
+administrators = ["90354502","49046214","11188934","63767942","33485190","28875462","70627846"];
 
-serverAdministrators = ["18836358", //Tom
-					"19714694", //pulse
-					"20243782", //Dom
-					"32879878"]; //Ally
+serverAdministrators = ["89811078"]; //DEV 4
       
 // --------------------------------------------------------------------------------------------------- \\
 // ----------  !DO NOT CHANGE ANYTHING BELOW THIS POINT UNLESS YOU KNOW WHAT YOU ARE DOING!	---------- \\
